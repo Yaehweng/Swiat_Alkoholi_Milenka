@@ -1,0 +1,10 @@
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\bin\Debug\ŚwiatAlkoholi_MilenaBrowczuk.exe.config
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\bin\Debug\ŚwiatAlkoholi_MilenaBrowczuk.exe
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\bin\Debug\ŚwiatAlkoholi_MilenaBrowczuk.pdb
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.csproj.AssemblyReference.cache
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.Properties.Resources.resources
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.csproj.GenerateResource.cache
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.csproj.CoreCompileInputs.cache
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.exe
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.pdb
+C:\Users\mimil\source\repos\ŚwiatAlkoholi_MilenaBrowczuk\ŚwiatAlkoholi_MilenaBrowczuk\obj\Debug\ŚwiatAlkoholi_MilenaBrowczuk.Świat_Alkoholi_weryfikacja.resources
