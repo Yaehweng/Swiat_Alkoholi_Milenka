@@ -92,7 +92,7 @@ namespace ŚwiatAlkoholi_MilenaBrowczuk
             this.nazwisko.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.nazwisko.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nazwisko.ForeColor = System.Drawing.Color.Maroon;
-            this.nazwisko.Location = new System.Drawing.Point(136, 343);
+            this.nazwisko.Location = new System.Drawing.Point(327, 289);
             this.nazwisko.Name = "nazwisko";
             this.nazwisko.Size = new System.Drawing.Size(172, 31);
             this.nazwisko.TabIndex = 3;
@@ -104,7 +104,7 @@ namespace ŚwiatAlkoholi_MilenaBrowczuk
             this.adres.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.adres.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.adres.ForeColor = System.Drawing.Color.Maroon;
-            this.adres.Location = new System.Drawing.Point(327, 289);
+            this.adres.Location = new System.Drawing.Point(136, 343);
             this.adres.Name = "adres";
             this.adres.Size = new System.Drawing.Size(170, 31);
             this.adres.TabIndex = 4;
